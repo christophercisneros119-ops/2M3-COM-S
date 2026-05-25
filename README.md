@@ -1,5 +1,4 @@
 # 2M3-COM-S  (Cisneros)
-# Exclusivo para desarrolladores UNII
 
 # 🛠️ Tecnologías 
 
